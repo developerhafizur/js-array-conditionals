@@ -8,7 +8,7 @@ if(danishPrice < money) {
 }
 else if (butterBread < money) {
     console.log('Butter bon khamu')
-}
+} 
 else if(toastBiscuit < money){
     console.log('chubai chubai toast biscuit khamu')
 }
